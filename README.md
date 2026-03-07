@@ -60,8 +60,7 @@ Me especializo en el desarrollo de soluciones técnicas centradas en la **orques
 
 ### ✍️ Publicaciones Técnicas (RSS)
 * *Explorando el despliegue de agentes autónomos en n8n.*
-### 🎵 Actualmente escuchando
-[![Spotify](https://novatorem-spotify-status.vercel.app/api/run-spotify-status.py?background_color=1db954&text_color=ffffff)](https://open.spotify.com/user/TU_USUARIO)
+
 
 ---
 
