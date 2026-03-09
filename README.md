@@ -1,8 +1,8 @@
 # 👋 Hola, soy TomasLoha | Desarrollador de Software
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ecc71&center=true&vCenter=true&width=600&lines=Desarrollador+Especialista+en+n8n;Creador+de+Sistemas+Agénticos+IA;Backend+Developer+%26+Automation+Expert" alt="Roles de TomasLoha" />
-</p>
+</p> -->
 
 ---
 
