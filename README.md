@@ -1,37 +1,45 @@
-# 👋 Hola, soy TomasLoha | Desarrollador de Software
-
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ecc71&center=true&vCenter=true&width=600&lines=Desarrollador+Especialista+en+n8n;Creador+de+Sistemas+Agénticos+IA;Backend+Developer+%26+Automation+Expert" alt="Roles de TomasLoha" />
-</p> -->
----
-
-## 🚀 Mi Enfoque como Desarrollador
-Me especializo en el desarrollo de soluciones técnicas centradas en la **orquestación de flujos de trabajo** y la automatización avanzada utilizando **n8n**. Mi enfoque no es solo conectar herramientas, sino construir infraestructuras digitales escalables y eficientes.
-
-* [cite_start]**Evolución 2026:** Actualmente enfocado en la transición de flujos reactivos hacia **Agentes de IA autónomos** utilizando n8n 2.0 y LangChain[cite: 104, 263].
-* [cite_start]**Filosofía de Código:** Priorizo la construcción de **Custom Nodes** en TypeScript y la gestión de entornos autohospedados (self-hosted) con Docker para garantizar el control total sobre los datos[cite: 158, 172].
+# 👋 Hola, soy TomasLoha | Desarrollador Backend & Automatización
 
 ---
 
-## 🛠️ Stack Tecnológico Proyectado
-[cite_start]Representación visual del conocimiento técnico para facilitar el procesamiento paralelo de información[cite: 32, 230].
+## 🚀 Sobre mí
+Desarrollador Backend con formación como **Técnico en Programación**, especializado en la construcción de **APIs, sistemas escalables y automatización con IA**.
 
-### 🤖 Automatización e Inteligencia Artificial
-![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white) 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+Tengo experiencia en entornos startup diseñando, desarrollando y llevando a producción soluciones reales, incluyendo sistemas conversacionales y automatización de procesos.
 
-### ⚙️ Desarrollo Backend y Lógica
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+Mi enfoque está en combinar **lógica determinística + modelos de lenguaje** para:
+- Reducir costos
+- Minimizar errores
+- Construir sistemas eficientes y mantenibles
+
+---
+
+## 🛠️ Stack Tecnológico
+
+### ⚙️ Backend
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### ☁️ Infraestructura y DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### 🤖 Automatización e IA
+![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+### 🗄️ Bases de Datos & Persistencia
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### 🔐 Seguridad
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+
+### 🧰 Herramientas
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge)
 
 ---
 
