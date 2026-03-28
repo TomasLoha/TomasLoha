@@ -7,11 +7,6 @@ Desarrollador Backend con formación como **Técnico en Programación**, especia
 
 Tengo experiencia en entornos startup diseñando, desarrollando y llevando a producción soluciones reales, incluyendo sistemas conversacionales y automatización de procesos.
 
-Mi enfoque está en combinar **lógica determinística + modelos de lenguaje** para:
-- Reducir costos
-- Minimizar errores
-- Construir sistemas eficientes y mantenibles
-
 ---
 
 ## 🛠️ Stack Tecnológico
