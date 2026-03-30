@@ -3,7 +3,7 @@
 ---
 
 ## 🚀 Sobre mí
-Desarrollador Backend con formación como **Técnico en Programación**, especializado en la construcción de **APIs, sistemas escalables y automatización con IA**.
+Desarrollador Backend con formación como **Técnico en Programación**, especializado en la construcción de **APIs, sistemas escalables y automatización con IA**. 
 
 Tengo experiencia en entornos startup diseñando, desarrollando y llevando a producción soluciones reales, incluyendo sistemas conversacionales y automatización de procesos.
 
