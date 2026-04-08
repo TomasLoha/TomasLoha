@@ -1,6 +1,5 @@
 # 👋 Hola, soy TomasLoha | Desarrollador Backend & Automatización
 
---- hola mundo  restarts
 
 ## 🚀 Sobre mí
 Desarrollador Backend con formación como **Técnico en Programación**, especializado en la construcción de **APIs, sistemas escalables y automatización con IA**. 
